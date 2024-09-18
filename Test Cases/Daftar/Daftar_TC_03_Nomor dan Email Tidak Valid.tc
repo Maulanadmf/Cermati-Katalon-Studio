@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Daftar_TC_03_Nomor dan Email Tidak Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0939072-4233-4a4f-b8ff-0ce1709f7592</testCaseGuid>
+</TestCaseEntity>

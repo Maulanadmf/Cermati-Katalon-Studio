@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "432CDB5A4FFBF6A1DF8BA46DBA7AD49B",
+  "keywordClasses": [
+    {
+      "name": "my.custom.keywords.CaptchaSolver",
+      "keywordMethods": [
+        {
+          "name": "solveCaptcha",
+          "parameters": [
+            {
+              "name": "imagePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

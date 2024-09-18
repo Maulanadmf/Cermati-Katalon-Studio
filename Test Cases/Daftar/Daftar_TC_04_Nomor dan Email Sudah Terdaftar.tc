@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Daftar_TC_04_Nomor dan Email Sudah Terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c7d5fe1-b7fa-45fd-b1e3-23a33d6d9324</testCaseGuid>
+</TestCaseEntity>

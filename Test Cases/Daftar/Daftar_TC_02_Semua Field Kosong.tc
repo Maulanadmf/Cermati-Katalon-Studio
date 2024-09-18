@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Daftar_TC_02_Semua Field Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07e3eea9-e03b-466e-bd5d-8949bd7951f2</testCaseGuid>
+</TestCaseEntity>
